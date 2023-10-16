@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6knzPKTaDSKN8ld1tyeMG2s8JOVCT/LdR9/+aSjh9ui6oSQIH744Cz9Wo/tM1tIe90vQiDuad/OA+Zj8Lf9hHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valsisdes1\\Source\\repos\\pruebaOPENAI\\pruebaOPENAI\\pruebaOPENAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valsisdes1\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\valsisdes1\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\valsisdes1\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
